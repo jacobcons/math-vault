@@ -1,0 +1,924 @@
+[
+  {
+    "topic": "Addition and Subtraction",
+    "video": "https://www.mathsgenie.co.uk/addition-and-subtraction.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-addition-and-subtraction-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-addition-and-subtraction.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-addition-and-subtractionans.pdf"
+  },
+  {
+    "topic": "Multiplication and Division",
+    "video": "https://www.mathsgenie.co.uk/multiplication-and-division.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-multiplication-and-division-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-multiplication-and-division.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-multiplication-and-divisionans.pdf"
+  },
+  {
+    "topic": "Time",
+    "video": "https://www.mathsgenie.co.uk/time.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-time-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-time.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-timeans.pdf"
+  },
+  {
+    "topic": "Metric Conversions",
+    "video": "https://www.mathsgenie.co.uk/metric-conversions.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-metric-conversions-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-metric-conversions.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-metric-conversions-ans.pdf"
+  },
+  {
+    "topic": "Writing, Simplifying and Ordering Fractions",
+    "video": "https://www.mathsgenie.co.uk/writing-fractions.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-writing-simplifying-and-ordering-fractions-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-writing-simplifying-and-ordering-fractions.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-writing-simplifying-and-ordering-fractionsans.pdf"
+  },
+  {
+    "topic": "Place Value",
+    "video": "https://www.mathsgenie.co.uk/place-value.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-place-value-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-place-value.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-place-valueans.pdf"
+  },
+  {
+    "topic": "Rounding",
+    "video": "https://www.mathsgenie.co.uk/rounding.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-rounding-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-rounding.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-roundingans.pdf"
+  },
+  {
+    "topic": "Negative Numbers",
+    "video": "https://www.mathsgenie.co.uk/negativenumbers.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-negative-numbers-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-negative-numbers.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-negative-numbersans.pdf"
+  },
+  {
+    "topic": "Powers and Roots",
+    "video": "https://www.mathsgenie.co.uk/squares-cubes-and-roots.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-powers-and-roots-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-powers-and-roots.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-powers-and-rootsans.pdf"
+  },
+  {
+    "topic": "BIDMAS",
+    "video": "https://www.mathsgenie.co.uk/BIDMAS.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-the-order-of-operations-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-the-order-of-operations.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-the-order-of-operationsans.pdf"
+  },
+  {
+    "topic": "Factors and Multiples",
+    "video": "https://www.mathsgenie.co.uk/factors-multiples-and-primes.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-factors-multiples-and-primes-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-factors-multiples-and-primes.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-factors-multiples-and-primesans.pdf"
+  },
+  {
+    "topic": "Coordinates",
+    "video": "https://www.mathsgenie.co.uk/coordinates.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-coordinates-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-coordinates.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-coordinatesans.pdf"
+  },
+  {
+    "topic": "Pictograms",
+    "video": "https://www.mathsgenie.co.uk/pictograms.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/1-pictograms-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/1-pictograms.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/1-pictogramsans.pdf"
+  },
+  {
+    "topic": "Calculation Problems",
+    "video": "https://www.mathsgenie.co.uk/calculationproblems.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-calculation-problems-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-calculation-problems.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-calculation-problemsans.pdf"
+  },
+  {
+    "topic": "Using a Calculator",
+    "video": "https://www.mathsgenie.co.uk/use-of-calculator.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-using-a-calculator-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-using-a-calculator.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-using-a-calculatorans.pdf"
+  },
+  {
+    "topic": "Systematic Listing",
+    "video": "https://www.mathsgenie.co.uk/systematic-listing.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-systematic-listing-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-systematic-listing.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-systematic-listingans.pdf"
+  },
+  {
+    "topic": "Fractions of an Amount",
+    "video": "https://www.mathsgenie.co.uk/fraction-of-amount.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-fractions-of-an-amount-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-fractions-of-an-amount.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-fractions-of-an-amountans.pdf"
+  },
+  {
+    "topic": "Fractions, Decimals and Percentages",
+    "video": "https://www.mathsgenie.co.uk/FDP.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-fractions-decimals-and-percentages-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-fractions-decimals-and-percentages.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-fractions-decimals-and-percentagesans.pdf"
+  },
+  {
+    "topic": "Simplifying Algebra",
+    "video": "https://www.mathsgenie.co.uk/simplifyingalgebra.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-simplifying-algebra-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-simplifying-algebra.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-simplifying-algebraans.pdf"
+  },
+  {
+    "topic": "Writing an Expression",
+    "video": "https://www.mathsgenie.co.uk/writing-an-expression.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-writing-an-expression-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-writing-an-expression.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-writing-an-expressionans.pdf"
+  },
+  {
+    "topic": "Function Machines",
+    "video": "https://www.mathsgenie.co.uk/function-machines.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-function-machines-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-function-machines.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-function-machinesans.pdf"
+  },
+  {
+    "topic": "Solving One Step Equations",
+    "video": "https://www.mathsgenie.co.uk/solving-one-step-equations.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-solving-one-step-equations-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-solving-one-step-equations.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-solving-one-step-equationsans.pdf"
+  },
+  {
+    "topic": "Angles",
+    "video": "https://www.mathsgenie.co.uk/angles.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-angles-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-angles.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-anglesans.pdf"
+  },
+  {
+    "topic": "Area and Perimeter",
+    "video": "https://www.mathsgenie.co.uk/area-perimeter.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-area-and-perimeter-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-area-and-perimeter.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-area-and-perimeterans.pdf"
+  },
+  {
+    "topic": "Probability",
+    "video": "https://www.mathsgenie.co.uk/probability.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-writing-probability-and-the-probability-scale-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-writing-probability-and-the-probability-scale.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-writing-probability-and-the-probability-scaleans.pdf"
+  },
+  {
+    "topic": "Frequency Polygons",
+    "video": "https://www.mathsgenie.co.uk/frequency-polygons.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-frequency-polygons-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-frequency-polygons.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-frequency-polygonsans.pdf"
+  },
+  {
+    "topic": "Averages",
+    "video": "https://www.mathsgenie.co.uk/averages.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-averages-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-averages.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-averagesans.pdf"
+  },
+  {
+    "topic": "Bar Charts",
+    "video": "https://www.mathsgenie.co.uk/bar-charts.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-bar-charts-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-bar-charts.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-bar-chartsans.pdf"
+  },
+  {
+    "topic": "Stem and Leaf",
+    "video": "https://www.mathsgenie.co.uk/stem-and-leaf.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/2-stem-and-leaf-diagrams-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/2-stem-and-leaf-diagrams.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/2-stem-and-leaf-diagramsans.pdf"
+  },
+  {
+    "topic": "Pie Charts",
+    "video": "https://www.mathsgenie.co.uk/pie-charts.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-pie-charts-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-pie-charts.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-pie-chartsans.pdf"
+  },
+  {
+    "topic": "Error Intervals",
+    "video": "https://www.mathsgenie.co.uk/error-intervals.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-error-intervals-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-error-intervals.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-error-intervalsans.pdf"
+  },
+  {
+    "topic": "Fractions",
+    "video": "https://www.mathsgenie.co.uk/fractions.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-fractions-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-fractions.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-fractionsans.pdf"
+  },
+  {
+    "topic": "Estimating",
+    "video": "https://www.mathsgenie.co.uk/estimating.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-estimation-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-estimation.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-estimationans.pdf"
+  },
+  {
+    "topic": "Writing and Simplifying Ratio",
+    "video": "https://www.mathsgenie.co.uk/writing-simplifying-ratio.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-writing-and-simplifying-ratio-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-writing-and-simplifying-ratio.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-writing-and-simplifying-ratioans.pdf"
+  },
+  {
+    "topic": "Ratio",
+    "video": "https://www.mathsgenie.co.uk/ratio.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-sharing-ratio-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-sharing-ratio.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-sharing-ratioans.pdf"
+  },
+  {
+    "topic": "Proportion",
+    "video": "https://www.mathsgenie.co.uk/recipe-questions.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-proportion-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-proportion.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/29_proportion-ingredientsans.pdf"
+  },
+  {
+    "topic": "Percentages",
+    "video": "https://www.mathsgenie.co.uk/percentages.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-percentages-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-percentages.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-percentagesans.pdf"
+  },
+  {
+    "topic": "Percentage Change",
+    "video": "https://www.mathsgenie.co.uk/percentage-change.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-percentage-change-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-percentage-change.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-percentage-changeans.pdf"
+  },
+  {
+    "topic": "Exchange Rates",
+    "video": "https://www.mathsgenie.co.uk/exchange-rates.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-exchange-rates-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-exchange-rates.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-exchange-ratesans.pdf"
+  },
+  {
+    "topic": "Conversions and Units",
+    "video": "https://www.mathsgenie.co.uk/conversions-and-units.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-conversions-and-units-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-conversions-and-units.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-conversions-and-units-ans.pdf"
+  },
+  {
+    "topic": "Scale Drawings",
+    "video": "https://www.mathsgenie.co.uk/scale-drawing.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-scale-drawings-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-scale-drawings.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-scale-drawingsans.pdf"
+  },
+  {
+    "topic": "Best Buy Questions",
+    "video": "https://www.mathsgenie.co.uk/best-buys.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-best-buys-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-best-buys.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-best-buysans.pdf"
+  },
+  {
+    "topic": "Substitution",
+    "video": "https://www.mathsgenie.co.uk/substitution.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-substitution-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-substitution.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-substitutionans.pdf"
+  },
+  {
+    "topic": "Solving Equations",
+    "video": "https://www.mathsgenie.co.uk/solving-equations.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-solving-equations-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-solving-equations.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-solving-equationsans.pdf"
+  },
+  {
+    "topic": "Drawing Linear Graphs",
+    "video": "https://www.mathsgenie.co.uk/lineargraphs.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-linear-graphs-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-linear-graphs.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-linear-graphsans.pdf"
+  },
+  {
+    "topic": "Area and Circumference of Circles",
+    "video": "https://www.mathsgenie.co.uk/circles.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-circles-area-and-circumference-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-circles-area-and-circumference.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-circles-area-and-circumferenceans.pdf"
+  },
+  {
+    "topic": "Transformations",
+    "video": "https://www.mathsgenie.co.uk/transformations.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-transformations-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-rotations.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-rotationsans.pdf"
+  },
+  {
+    "topic": "Area of Compound Shapes",
+    "video": "https://www.mathsgenie.co.uk/compound-shapes.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/37_area-of-compound-shapes-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/37_area-of-compound-shapes.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/37_area-of-compound-shapesans.pdf"
+  },
+  {
+    "topic": "Frequency Trees",
+    "video": "https://www.mathsgenie.co.uk/frequency-trees.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-frequency-trees-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-frequency-trees.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-frequency-treesans.pdf"
+  },
+  {
+    "topic": "Two Way Tables",
+    "video": "https://www.mathsgenie.co.uk/two-way-tables.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/3-two-way-tables-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/3-two-way-tables.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/3-two-way-tablesans.pdf"
+  },
+  {
+    "topic": "Compound Interest and Depreciation",
+    "video": "https://www.mathsgenie.co.uk/compound-interest.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-compound-interest-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-compound-interest.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-compound-interestans.pdf"
+  },
+  {
+    "topic": "Indices",
+    "video": "https://www.mathsgenie.co.uk/indices.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-indices-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-indices.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-indicesans.pdf"
+  },
+  {
+    "topic": "Prime Factors, HCF and LCM",
+    "video": "https://www.mathsgenie.co.uk/HCFLCM.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-HCF-and-LCM-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-HCF-and-LCM.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-HCF-and-LCMans.pdf"
+  },
+  {
+    "topic": "Real Life and Distance Time Graphs",
+    "video": "https://www.mathsgenie.co.uk/real-graphs.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-real-life-graphs.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-real-life-graphsans.pdf"
+  },
+  {
+    "topic": "Inequalities",
+    "video": "https://www.mathsgenie.co.uk/inequalities.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-inequalities-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-inequalities.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-inequalitiesans.pdf"
+  },
+  {
+    "topic": "Forming and Solving Equations",
+    "video": "https://www.mathsgenie.co.uk/forming-and-solving-equations.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-forming-and-solving-equations-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-forming-and-solving-equations.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-forming-and-solving-equationsans.pdf"
+  },
+  {
+    "topic": "Sequences (Nth Term)",
+    "video": "https://www.mathsgenie.co.uk/sequences.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-sequences-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-sequences.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-sequencesans.pdf"
+  },
+  {
+    "topic": "Expanding and Factorising",
+    "video": "https://www.mathsgenie.co.uk/expanding-and-factorising.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-expanding-and-factorising-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-expanding-and-factorising.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-expanding-and-factorisingans.pdf"
+  },
+  {
+    "topic": "Pythagoras",
+    "video": "https://www.mathsgenie.co.uk/pythagoras.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-pythagoras-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-pythagoras.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-pythagorasans.pdf"
+  },
+  {
+    "topic": "Angles in Parallel Lines",
+    "video": "https://www.mathsgenie.co.uk/angles-parallel.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-angles-in-parallel-lines-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-angles-in-parallel-lines.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-angles-in-parallel-linesans.pdf"
+  },
+  {
+    "topic": "Angles in Polygons",
+    "video": "https://www.mathsgenie.co.uk/angles-polygons.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-angles-in-polygons-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-angles-in-polygons.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-angles-in-polygonsans.pdf"
+  },
+  {
+    "topic": "Surface Area",
+    "video": "https://www.mathsgenie.co.uk/surfacearea.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-surface-area-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-surface-area.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-surface-areaans.pdf"
+  },
+  {
+    "topic": "Volume of a Prism",
+    "video": "https://www.mathsgenie.co.uk/volume.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-volume-of-a-prism-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-volume-of-a-prism.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-volume-of-a-prismans.pdf"
+  },
+  {
+    "topic": "Cylinders",
+    "video": "https://www.mathsgenie.co.uk/cylinders.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-cylinders-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-cylinders.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-cylindersans.pdf"
+  },
+  {
+    "topic": "Loci and Construction",
+    "video": "https://www.mathsgenie.co.uk/loci-and-construction.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-loci-and-construction.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-loci-and-constructionans.pdf"
+  },
+  {
+    "topic": "Bearings",
+    "video": "https://www.mathsgenie.co.uk/bearings.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-bearings.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-bearingsans.pdf"
+  },
+  {
+    "topic": "Plans and Elevations",
+    "video": "https://www.mathsgenie.co.uk/plans-and-elevations.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-plans-and-elevations-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-plans-and-elevations.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-plans-and-elevationsans.pdf"
+  },
+  {
+    "topic": "Averages from Frequency Tables",
+    "video": "https://www.mathsgenie.co.uk/mean-tables.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-averages-from-frequency-tables-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-averages-from-frequency-tables.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-averages-from-frequency-tablesans.pdf"
+  },
+  {
+    "topic": "Probability",
+    "video": "https://www.mathsgenie.co.uk/probability2.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/4-probability-and-relative-frequency-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-probability-and-relative-frequency.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-probability-and-relative-frequencyans.pdf"
+  },
+  {
+    "topic": "Scatter Graphs",
+    "video": "https://www.mathsgenie.co.uk/scatter-graphs.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/4-scatter-graphs.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/4-scatter-graphsans.pdf"
+  },
+  {
+    "topic": "Writing a Ratio as a Fraction or Linear Function",
+    "video": "https://www.mathsgenie.co.uk/ratio-fraction-or-linear-function.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-ratio-fraction-problems-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-ratio-fraction-problems.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-ratio-fraction-problemsans.pdf"
+  },
+  {
+    "topic": "Direct and Inverse Proportion",
+    "video": "https://www.mathsgenie.co.uk/proportion.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-direct-and-inverse-proportion-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-direct-and-inverse-proportion.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-direct-and-inverse-proportionans.pdf"
+  },
+  {
+    "topic": "Reverse Percentages",
+    "video": "https://www.mathsgenie.co.uk/reverse-percentages.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-reverse-percentages-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-reverse-percentages.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-reverse-percentagesans.pdf"
+  },
+  {
+    "topic": "Standard Form",
+    "video": "https://www.mathsgenie.co.uk/standard-form.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-standard-form-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-standard-form.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-standard-formans.pdf"
+  },
+  {
+    "topic": "Speed and Density",
+    "video": "https://www.mathsgenie.co.uk/speed-and-density.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-compound-measures-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-compound-measures.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-compound-measuresans.pdf"
+  },
+  {
+    "topic": "Changing the Subject of a Formula",
+    "video": "https://www.mathsgenie.co.uk/changing-the-subject1.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-changing-the-subject-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-changing-the-subject.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-changing-the-subjectans.pdf"
+  },
+  {
+    "topic": "Expanding and Factorising Quadratics",
+    "video": "https://www.mathsgenie.co.uk/expanding-and-factorising-quadratics.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-expanding-and-factorising-quadratics-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-expanding-and-factorising-quadratics.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-expanding-and-factorising-quadraticsans.pdf"
+  },
+  {
+    "topic": "Solving Quadratics",
+    "video": "https://www.mathsgenie.co.uk/solving-quadratics.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-solving-quadratics-by-factorising-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-solving-quadratics-by-factorising.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-solving-quadratics-by-factorisingans.pdf"
+  },
+  {
+    "topic": "Drawing Quadratic Graphs",
+    "video": "https://www.mathsgenie.co.uk/quadratic-graphs.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-quadratic-graphs-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-quadratic-graphs.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-quadratic-graphsans.pdf"
+  },
+  {
+    "topic": "Drawing Other Graphs: Cubic/Reciprocal",
+    "video": "https://www.mathsgenie.co.uk/cubic-reciprocal.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-cubic-and-reciprocal-graphs.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-cubic-and-reciprocal-graphsans.pdf"
+  },
+  {
+    "topic": "Simultaneous Equations",
+    "video": "https://www.mathsgenie.co.uk/simultaneous.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-simultaneous-equations-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-simultaneous-equations.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-simultaneous-equationsans.pdf"
+  },
+  {
+    "topic": "Solving Simultaneous Equations Graphically",
+    "video": "https://www.mathsgenie.co.uk/simultaneous-graphically.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-solving-simultaneous-equations-graphically-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-solving-simultaneous-equations-graphically.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-solving-simultaneous-equations-graphicallyans.pdf"
+  },
+  {
+    "topic": "Midpoint of a Line Segment",
+    "video": "https://www.mathsgenie.co.uk/mid-point.php"
+  },
+  {
+    "topic": "Gradient of a Line",
+    "video": "https://www.mathsgenie.co.uk/gradient-of-a-line.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-gradient-of-a-line-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-gradient-of-a-line.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-gradient-of-a-lineans.pdf"
+  },
+  {
+    "topic": "Equation of a Line",
+    "video": "https://www.mathsgenie.co.uk/equation-of-a-line.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-equation-of-a-line-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-equation-of-a-line.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-equation-of-a-lineans.pdf"
+  },
+  {
+    "topic": "Spheres and Cones",
+    "video": "https://www.mathsgenie.co.uk/spheresandcones.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-spheres-and-cones-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-spheres-and-cones.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-spheres-and-conesans.pdf"
+  },
+  {
+    "topic": "Sector Areas and Arc Lengths",
+    "video": "https://www.mathsgenie.co.uk/sectors-and-arcs.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-sector-area-and-arc-length-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-sector-area-and-arc-length.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-sector-area-and-arc-lengthans.pdf"
+  },
+  {
+    "topic": "Similar Shapes (Lengths)",
+    "video": "https://www.mathsgenie.co.uk/similar-shapes-length.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-similar-shapes-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-similar-shapes.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-similar-shapesans.pdf"
+  },
+  {
+    "topic": "SOHCAHTOA (Trigonometry)",
+    "video": "https://www.mathsgenie.co.uk/sohcahtoa.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-SOHCAHTOA-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-SOHCAHTOA.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-SOHCAHTOAans.pdf"
+  },
+  {
+    "topic": "Exact trig values",
+    "video": "https://www.mathsgenie.co.uk/exact-trig-values.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-exact-trig-values-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-exact-trig-values.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-exact-trig-valuesans.pdf"
+  },
+  {
+    "topic": "Vectors",
+    "video": "https://www.mathsgenie.co.uk/column-vectors.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-vectors.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-vectorsans.pdf"
+  },
+  {
+    "topic": "Probability Trees",
+    "video": "https://www.mathsgenie.co.uk/probability-trees.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-probability-trees-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-probability-trees.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-probability-treesans.pdf"
+  },
+  {
+    "topic": "Venn Diagrams",
+    "video": "https://www.mathsgenie.co.uk/venn-diagrams.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/5-venn-diagrams-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/5-venn-diagrams.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/5-venn-diagramsans.pdf"
+  },
+  {
+    "topic": "Recurring Decimals to Fractions",
+    "video": "https://www.mathsgenie.co.uk/recurring.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/6-recurring-decimals-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-recurring-decimals.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-recurring-decimalsans.pdf"
+  },
+  {
+    "topic": "Fractional and Negative Indices",
+    "video": "https://www.mathsgenie.co.uk/indices2.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/6-fractional-and-negative-indices-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-fractional-and-negative-indices.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-fractional-and-negative-indicesans.pdf"
+  },
+  {
+    "topic": "The Product Rule for Counting",
+    "video": "https://www.mathsgenie.co.uk/product-rule-for-counting.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/6-product-rule-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-product-rule.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-product-ruleans.pdf"
+  },
+  {
+    "topic": "Repeated Percentage Change",
+    "video": "https://www.mathsgenie.co.uk/repeated-percentage-change.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/6-repeated-percentage-change-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-repeated-percentage-change.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-repeated-percentage-changeans.pdf"
+  },
+  {
+    "topic": "Expanding Triple Brackets",
+    "video": "https://www.mathsgenie.co.uk/expanding-triple-brackets.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/6-expanding-triple-brackets-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-expanding-triple-brackets.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-expanding-triple-bracketsans.pdf"
+  },
+  {
+    "topic": "Parallel and Perpendicular Lines",
+    "video": "https://www.mathsgenie.co.uk/parallel-and-perpendicular-lines.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/6-parallel-and-perpendicular-lines-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-parallel-and-perpendicular-lines.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-parallel-and-perpendicular-linesans.pdf"
+  },
+  {
+    "topic": "Inequalities on Graphs",
+    "video": "https://www.mathsgenie.co.uk/inequalities-on-graphs.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-inequalities-regions.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-inequalities-regionsans.pdf"
+  },
+  {
+    "topic": "Similar Shapes (Area and Volume)",
+    "video": "https://www.mathsgenie.co.uk/similar-shapes-area-volume.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/similarshapes2-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-similar-shapes2.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/similarshapes2ans.pdf"
+  },
+  {
+    "topic": "Enlarging with Negative Scale Factors",
+    "video": "https://www.mathsgenie.co.uk/negative-enlargement.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-enlargement-negative-scale-factor.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-enlargement-negative-scale-factorans.pdf"
+  },
+  {
+    "topic": "Circle Theorems",
+    "video": "https://www.mathsgenie.co.uk/circle-theorems.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/6-circle-theorems-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-circle-theorems.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-circle-theoremsans.pdf"
+  },
+  {
+    "topic": "Cumulative Frequency",
+    "video": "https://www.mathsgenie.co.uk/cumulative.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-cumulative-frequency.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-cumulative-frequencyans.pdf"
+  },
+  {
+    "topic": "Box Plots",
+    "video": "https://www.mathsgenie.co.uk/box-plots.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/6-box-plots-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/6-box-plots.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/6-box-plotsans.pdf"
+  },
+  {
+    "topic": "Capture Recapture",
+    "video": "https://www.mathsgenie.co.uk/capture-recapture.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/6-capture-recapture-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/papers/stats/CaptureRecapture.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/papers/stats/CaptureRecaptureans.pdf"
+  },
+  {
+    "topic": "Surds",
+    "video": "https://www.mathsgenie.co.uk/surds.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-surds-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-surds.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-surdsans.pdf"
+  },
+  {
+    "topic": "Bounds",
+    "video": "https://www.mathsgenie.co.uk/bounds.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-bounds-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-bounds.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-boundsans.pdf"
+  },
+  {
+    "topic": "Direct and Inverse Proportion",
+    "video": "https://www.mathsgenie.co.uk/direct-and-inverse-proportion.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-direct-and-inverse-proportion-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-direct-and-inverse-proportion.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-direct-and-inverse-proportionans.pdf"
+  },
+  {
+    "topic": "Quadratic Formula",
+    "video": "https://www.mathsgenie.co.uk/quadratic-formula.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-quadratic-formula-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-quadratic-formula.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-quadratic-formulaans.pdf"
+  },
+  {
+    "topic": "Factorising Harder Quadratics",
+    "video": "https://www.mathsgenie.co.uk/factorising-harder.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-factorising-harder-quadratics-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-factorising-harder-quadratics.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-factorising-harder-quadraticsans.pdf"
+  },
+  {
+    "topic": "Algebraic Fractions",
+    "video": "https://www.mathsgenie.co.uk/algebraic-fractions.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-algebraic-fractions-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-algebraic-fractions.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-algebraic-fractionsans.pdf"
+  },
+  {
+    "topic": "Rearranging Harder Formulae",
+    "video": "https://www.mathsgenie.co.uk/changing-the-subject2.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-rearranging-harder-formula-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-rearranging-harder-formula.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-rearranging-harder-formulaans.pdf"
+  },
+  {
+    "topic": "Trigonometric and Exponential Graphs",
+    "video": "https://www.mathsgenie.co.uk/harder-graphs.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-trig-and-exponential-graphs.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-trig-and-exponential-graphsans.pdf"
+  },
+  {
+    "topic": "Inverse and Composite Functions",
+    "video": "https://www.mathsgenie.co.uk/functions.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-functions-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-functions.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-functionsans.pdf"
+  },
+  {
+    "topic": "Iteration",
+    "video": "https://www.mathsgenie.co.uk/iteration.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-iteration-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-iteration.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-iterationans.pdf"
+  },
+  {
+    "topic": "Finding the Area of Any Triangle",
+    "video": "https://www.mathsgenie.co.uk/area-of-any-triangle.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-area-of-any-triangle-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-area-of-any-triangle.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-area-of-any-triangleans.pdf"
+  },
+  {
+    "topic": "The Sine Rule",
+    "video": "https://www.mathsgenie.co.uk/sine-rule.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-sine-rule-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-sine-rule.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-sine-ruleans.pdf"
+  },
+  {
+    "topic": "The Cosine Rule",
+    "video": "https://www.mathsgenie.co.uk/cosine-rule.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-cosine-rule-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-cosine-rule.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-cosine-ruleans.pdf"
+  },
+  {
+    "topic": "Congruent Triangles",
+    "video": "https://www.mathsgenie.co.uk/congruence.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-congruent-triangles-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-congruent-triangles.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-congruent-trianglesans.pdf"
+  },
+  {
+    "topic": "3d Pythagoras and Trigonometry",
+    "video": "https://www.mathsgenie.co.uk/3d-pythagoras.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-3d-pythagoras-and-trigonometry-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-3d-pythagoras-and-trigonometry.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-3d-pythagoras-and-trigonometryans.pdf"
+  },
+  {
+    "topic": "Histograms",
+    "video": "https://www.mathsgenie.co.uk/histograms.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-histograms.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-histogramsans.pdf"
+  },
+  {
+    "topic": "Conditional Probability",
+    "video": "https://www.mathsgenie.co.uk/conditional.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/7-conditional-probability-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/7-conditional-probability.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/7-conditional-probabilityans.pdf"
+  },
+  {
+    "topic": "Quadratic Simultaneous Equations",
+    "video": "https://www.mathsgenie.co.uk/simultaneous-quadratic.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/9-quadratic-simultaneous-equations-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-quadratic-simultaneous-equations.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/9-quadratic-simultaneous-equationsans.pdf"
+  },
+  {
+    "topic": "Transforming Graphs y=f(x)",
+    "video": "https://www.mathsgenie.co.uk/transforming-graphs.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-transforming-graphs.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/9-transforming-graphsans.pdf"
+  },
+  {
+    "topic": "Proof",
+    "video": "https://www.mathsgenie.co.uk/proof.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/9-proof-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-proof.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/9-proofans.pdf"
+  },
+  {
+    "topic": "Completing the Square",
+    "video": "https://www.mathsgenie.co.uk/completing-the-square.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/9-completing-the-square-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-completing-the-square.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/9-completing-the-squareans.pdf"
+  },
+  {
+    "topic": "The Nth Term of a Quadratic Sequence",
+    "video": "https://www.mathsgenie.co.uk/quadratic-nth-term.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/quadraticsequences-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/8-quadratic-sequences.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/8-quadratic-sequencesans.pdf"
+  },
+  {
+    "topic": "Quadratic Inequalities",
+    "video": "https://www.mathsgenie.co.uk/quadratic-inequalities.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/quadraticinequalities-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-quadratic-inequalities.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/quadraticinequalitiesans.pdf"
+  },
+  {
+    "topic": "Velocity Time Graphs",
+    "video": "https://www.mathsgenie.co.uk/velocity-time-graphs.php",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-velocity-time-graphs.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/9-velocity-time-graphsans.pdf"
+  },
+  {
+    "topic": "Proof of the Circle Theorems",
+    "video": "https://www.mathsgenie.co.uk/proof-of-circle-theorems.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/9-proof-of-circle-theorems-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-proof-of-circle-theorems.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/9-proof-of-circle-theoremsans.pdf"
+  },
+  {
+    "topic": "Perpendicular Lines and the equation of a tangent",
+    "video": "https://www.mathsgenie.co.uk/equation-of-tangent.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/perpendicularlines-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-perpendicular-lines.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/perpendicularlinesans.pdf"
+  },
+  {
+    "topic": "Vectors Proof Questions",
+    "video": "https://www.mathsgenie.co.uk/vectors.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/9-vectors-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-vectors.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/9-vectorsans.pdf"
+  },
+  {
+    "topic": "Probability Equation Questions",
+    "video": "https://www.mathsgenie.co.uk/probability-equation-questions.php",
+    "examQuestions": "https://www.mathsgenie.co.uk/resources/9-probability-equation-ws.pdf",
+    "examQuestionsBooklet": "https://www.mathsgenie.co.uk/resources/9-probability-equation.pdf",
+    "solutions": "https://www.mathsgenie.co.uk/resources/9-probability-equationans.pdf"
+  }
+]

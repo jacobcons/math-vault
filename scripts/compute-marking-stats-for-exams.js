@@ -1,12 +1,13 @@
 import { writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import mathData from './database.json' with { type: 'json' };
+import mathData from '../data/database.json' with { type: 'json' };
 const { papers, modules } = mathData;
 
 const EXAM_GROUPS = [
   { name: 'GCSE Foundation', ids: [12] },
   { name: 'GCSE Higher', ids: [13] },
-  { name: 'UKMT (JMC, IMC)', ids: [45, 46] },
+  { name: 'UKMT (JMC)', ids: [45] },
+  { name: 'UKMT (IMC', ids: [45] },
 ];
 const markingStatsForExams = [];
 
@@ -18,6 +19,7 @@ for (const examGroup of EXAM_GROUPS) {
     for (const question of paper.questions) {
       for (const skillId of question.skillscache) {
         const marksForQuestion = question.marks || 1;
+        // if (marksForQuestion >= 4) continue;
         if (totalMarkBySkillId[skillId]) {
           totalMarkBySkillId[skillId] += marksForQuestion;
         } else {
@@ -42,22 +44,21 @@ for (const examGroup of EXAM_GROUPS) {
       for (const skill of unit.skills) {
         const totalMarkForSkill = totalMarkBySkillId[skill.skid];
         const totalQuestionsForSkill = totalQuestionsBySkillId[skill.skid];
+        if (!totalMarkForSkill) continue;
 
-        if (totalMarkForSkill && totalQuestionsForSkill) {
-          totalMarkForUnit += totalMarkForSkill;
-          skillSummariesForUnit.push({
-            id: skill.publicid,
-            name: skill.name,
-            totalMark: totalMarkForSkill,
-            totalQuestions: totalQuestionsForSkill,
-          });
-          skillSummaries.push({
-            id: skill.publicid,
-            name: skill.name,
-            totalMark: totalMarkForSkill,
-            totalQuestions: totalQuestionsForSkill,
-          });
-        }
+        totalMarkForUnit += totalMarkForSkill;
+        skillSummariesForUnit.push({
+          id: skill.publicid,
+          name: skill.name,
+          totalMark: totalMarkForSkill,
+          totalQuestions: totalQuestionsForSkill,
+        });
+        skillSummaries.push({
+          id: skill.publicid,
+          name: skill.name,
+          totalMark: totalMarkForSkill,
+          totalQuestions: totalQuestionsForSkill,
+        });
       }
       if (totalMarkForUnit > 0) {
         unitSummaries.push({
@@ -79,7 +80,7 @@ for (const examGroup of EXAM_GROUPS) {
 }
 
 await writeFile(
-  path.join(import.meta.dirname, `marking-stats-for-exams.json`),
+  path.join(import.meta.dirname, '..', 'data', `marking-stats-for-exams.json`),
   JSON.stringify(markingStatsForExams),
   'utf-8',
 );

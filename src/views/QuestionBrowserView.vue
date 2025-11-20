@@ -3,7 +3,7 @@ import QuestionFilters from '@/components/QuestionFilters.vue';
 import QuestionList from '@/components/QuestionList.vue';
 import type { Question } from '@/types/database.types';
 import { Calc, type ParsedSkill } from '@/types/filter.types';
-import { database, internalSkillIdByPublicSkillId } from '@/utils/database.utils';
+import { database } from '@/utils/database.utils';
 import { computed, ref } from 'vue';
 
 // question filters
@@ -17,7 +17,7 @@ const selectedSkills = computed<ParsedSkill[]>(() =>
     const m = s.trim().match(/(\d+)([a-z]|\*)?/);
     if (!m) return [];
     const publicSkillId = Number(m[1]);
-    const skillId = internalSkillIdByPublicSkillId.get(publicSkillId);
+    const skillId = database.internalSkillIdByPublicSkillId[publicSkillId];
     if (!skillId) return [];
     return [{ skillId, subskillChar: m[2] || null }];
   }),
@@ -73,5 +73,5 @@ const questions = computed<Question[]>(() => {
     class="mb-10"
   />
 
-  <QuestionList :questions="questions" />
+  <QuestionList :questions="questions" :showQuestionCount="true" :showOtherPartsButton="true" />
 </template>

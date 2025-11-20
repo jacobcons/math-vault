@@ -1,52 +1,59 @@
 import { readFile, writeFile, mkdir } from 'fs/promises';
-import { dirname, basename } from 'path';
+import { dirname, join } from 'path';
 
 async function downloadImage(savePath, urlPath) {
+  await wait(100);
   const res = await fetch(`https://drfrost.org/${urlPath}`);
   if (!res.ok) {
-    console.log(path);
+    console.log(savePath);
+    console.log(urlPath);
     throw new Error(`Fetch failed: ${res.status}`);
   }
   const buffer = Buffer.from(await res.arrayBuffer());
-  await mkdir(`../assets/${dirname(savePath)}`, { recursive: true });
-  await writeFile(`../assets/${savePath}`, buffer);
+  const dirPath = join(import.meta.dirname, '..', '..', 'public', 'assets');
+  await mkdir(join(dirPath, dirname(savePath)), {
+    recursive: true,
+  });
+  await writeFile(join(dirPath, savePath), buffer);
 }
 
-function extractImagePath(str) {
-  const [m] = [...str.matchAll(/src="(.+?)"/g)];
-
-  if (m) {
-    const [_, path] = m;
-    return path;
-  }
+function extractImagePaths(s) {
+  const ms = [...s.matchAll(/src="(.+?)"/g)];
+  return ms.map((m) => m[1]);
 }
 
+// NEEDED TO DOWNLOAD IMAGES IN QUESTIONS BEYOND FIRST ONE HENCE THE SLICE
 async function main() {
-  const exams = JSON.parse(await readFile('./ukmt.json', 'utf-8'));
+  const exams = JSON.parse(await readFile(join(import.meta.dirname, 'ukmt.json'), 'utf-8'));
   let i = 0;
   for (const e of exams) {
-    i += 1;
     for (const q of e.questions) {
-      const contentImagePath = extractImagePath(q.content);
-      const responseImagePath = extractImagePath(q.response);
+      const questionImageUrls = extractImagePaths(q.content);
+      const answerImageUrls = extractImagePaths(q.response);
 
-      if (contentImagePath && !contentImagePath.startsWith('data:image')) {
-        await downloadImage(contentImagePath, contentImagePath);
+      for (const qImageUrl of questionImageUrls) {
+        if (qImageUrl.startsWith('data:image')) continue;
+        await downloadImage(qImageUrl, qImageUrl);
       }
 
-      if (responseImagePath && !responseImagePath.startsWith('data:image')) {
-        await downloadImage(responseImagePath, responseImagePath);
+      for (const aImageUrl of answerImageUrls) {
+        if (aImageUrl.startsWith('data:image')) continue;
+        await downloadImage(aImageUrl, aImageUrl);
       }
 
-      if (q.img) {
-        const parts = q.img.split('public_html');
-        const imgPath = parts[parts.length - 1];
-        await downloadImage(q.img, imgPath);
-      }
+      // if (q.img) {
+      //   const parts = q.img.split('public_html');
+      //   const imgPath = parts[parts.length - 1];
+      //   await downloadImage(q.img, imgPath);
+      // }
     }
-
+    i += 1;
     console.log(`Finished exam ${i}/${exams.length}`);
   }
+}
+
+function wait(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 await main();

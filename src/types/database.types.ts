@@ -1,6 +1,8 @@
 export interface Database {
-    papers:  Paper[];
-    modules: Module[];
+    papers:                         Paper[];
+    modules:                        Module[];
+    internalSkillIdByPublicSkillId: { [key: string]: number };
+    publicSkillIdByInternalSkillId: { [key: string]: number };
 }
 
 export interface Module {
